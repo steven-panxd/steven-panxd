@@ -67,9 +67,10 @@
 ### 📫 Connect
 
 <p>
-  <a href="https://pan.xuedo.ng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/steven-pan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:57612207+steven-panxd@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://sonilo.com"><img src="https://img.shields.io/badge/Website-Sonilo-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://pan.xuedo.ng"><img src="https://img.shields.io/badge/Portfolio-pan.xuedo.ng-0a0a0a?style=flat&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
+  <a href="https://sonilo.com"><img src="https://img.shields.io/badge/Sonilo-000000?style=flat&logo=googlechrome&logoColor=white" alt="Sonilo" /></a>
 </p>
 
 <sub>🎓 MS Computer Science, Northeastern (4.0) · BS Computer Science, SJSU (3.99, Summa Cum Laude)</sub>
