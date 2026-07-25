@@ -85,4 +85,3 @@
   <a href="https://sonilo.com"><img src="https://img.shields.io/badge/Sonilo-000000?style=flat&logo=googlechrome&logoColor=white" alt="Sonilo" /></a>
 </p>
 
-<sub>🎓 MS Computer Science, Northeastern (4.0) · BS Computer Science, SJSU (3.99, Summa Cum Laude)</sub>
