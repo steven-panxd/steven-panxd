@@ -25,6 +25,18 @@
 
 ---
 
+### 🔓 Open Source
+
+**[lottie-render](https://github.com/steven-panxd/lottie-render)** — Render Lottie animations to MP4 video, frame by frame &nbsp;`npm`
+> Built because the existing options in this space were either abandoned or paywalled.
+> Usable as an **npm library** or a **self-hosted HTTP service**, with a hardened render
+> sandbox (SSRF-blocked, resource-capped) and a real end-to-end test suite.
+
+[![npm version](https://img.shields.io/npm/v/lottie-render.svg)](https://www.npmjs.com/package/lottie-render)
+[![GitHub stars](https://img.shields.io/github/stars/steven-panxd/lottie-render?style=social)](https://github.com/steven-panxd/lottie-render)
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
