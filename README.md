@@ -70,8 +70,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=steven-panxd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-panxd&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steven-panxd&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steven-panxd&theme=default" alt="Top languages" />
 </p>
 
 ---
