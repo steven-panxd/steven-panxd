@@ -85,7 +85,6 @@ The public demo accepts self-contained JSON up to 2 MiB and 10 seconds, with out
 
 <p>
   <a href="https://www.linkedin.com/in/steven-pan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:57612207+steven-panxd@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://pan.xuedo.ng"><img src="https://img.shields.io/badge/Portfolio-pan.xuedo.ng-0a0a0a?style=flat&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
   <a href="https://sonilo.com"><img src="https://img.shields.io/badge/Sonilo-000000?style=flat&logo=googlechrome&logoColor=white" alt="Sonilo" /></a>
 </p>
