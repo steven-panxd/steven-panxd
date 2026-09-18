@@ -27,10 +27,15 @@
 
 ### 🔓 Open Source
 
-**[lottie-render](https://github.com/steven-panxd/lottie-render)** — Render Lottie animations to MP4 video, frame by frame &nbsp;`npm`
-> Built because the existing options in this space were either abandoned or paywalled.
-> Usable as an **npm library** or a **self-hosted HTTP service**, with a hardened render
-> sandbox (SSRF-blocked, resource-capped) and a real end-to-end test suite.
+**[lottie-render](https://github.com/steven-panxd/lottie-render)** — Convert Lottie animations to MP4, frame by frame
+> An open-source renderer built with **TypeScript, Playwright and FFmpeg**.
+> Try the browser demo without installing anything: preview a Lottie JSON file locally,
+> convert it on the server, and download an H.264 MP4. Integrate the Node.js library,
+> or use the CLI and self-hosted HTTP API from the source checkout.
+
+**[Try the live demo →](https://lottie.xuedo.ng/)** · [Quick start](https://github.com/steven-panxd/lottie-render#quick-start) · [Self-hosting](https://github.com/steven-panxd/lottie-render/blob/main/docs/vps.md)
+
+The public demo accepts self-contained JSON up to 2 MiB and 10 seconds, with output up to 512 px / 30 FPS. Conversion, cancellation, downloads and request limits are checked against the live service with browser E2E tests.
 
 [![npm version](https://img.shields.io/npm/v/lottie-render.svg)](https://www.npmjs.com/package/lottie-render)
 [![GitHub stars](https://img.shields.io/github/stars/steven-panxd/lottie-render?style=social)](https://github.com/steven-panxd/lottie-render)
