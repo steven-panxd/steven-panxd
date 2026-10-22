@@ -40,6 +40,16 @@ The public demo accepts self-contained JSON up to 2 MiB and 10 seconds, with out
 [![npm version](https://img.shields.io/npm/v/lottie-render.svg)](https://www.npmjs.com/package/lottie-render)
 [![GitHub stars](https://img.shields.io/github/stars/steven-panxd/lottie-render?style=social)](https://github.com/steven-panxd/lottie-render)
 
+**[google-apple-maps-converter](https://github.com/steven-panxd/google-apple-maps-converter)** — Open Google Maps links in Apple Maps, and the other way round
+> Converts place, pin, search and route links between Google Maps and Apple Maps.
+> Use the **web converter**, add the **iPhone shortcut** to get *Share › Open in Apple Maps* on any Google Maps link,
+> or use the zero-dependency **npm library**. It picks Apple's classic or newer link format from the visitor's iOS version.
+
+**[Try the web converter →](https://steven-panxd.github.io/google-apple-maps-converter/)** · [iPhone shortcut](https://steven-panxd.github.io/google-apple-maps-converter/shortcut/) · [npm](https://www.npmjs.com/package/google-apple-maps-converter)
+
+[![npm version](https://img.shields.io/npm/v/google-apple-maps-converter.svg)](https://www.npmjs.com/package/google-apple-maps-converter)
+[![GitHub stars](https://img.shields.io/github/stars/steven-panxd/google-apple-maps-converter?style=social)](https://github.com/steven-panxd/google-apple-maps-converter)
+
 ---
 
 ### 🛠️ Tech Stack
